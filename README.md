@@ -35,5 +35,6 @@ npm run preview
 
 
 #connect to backend 
-clone the other repo 
+clone the other repo  name graphqlserver, to launch it npm run start it will launch the backend on port 5000
+
 
